@@ -5785,7 +5785,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_RJ:RJ45_Ninigi_GE"
+		(property "Footprint" "Connector_RJ:RJ45_Amphenol_54602-x08_Horizontal"
 			(at 46.99 59.055 90)
 			(hide yes)
 			(show_name no)
