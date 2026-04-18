@@ -90,7 +90,7 @@
 	(footprint "TE_RJ45-8Z4:TE_RJ45-8Z4"
 		(layer "F.Cu")
 		(uuid "364c87ad-6c67-4a29-b6dd-303e6b11204f")
-		(at 128.37 121.595 -90)
+		(at 46.279514 118.860998 -90)
 		(property "Reference" "J5"
 			(at 0 0 90)
 			(layer "F.SilkS")
@@ -670,7 +670,7 @@
 	(footprint "STM32F103C6T6 Blue Pill:STM32F103C6T6"
 		(layer "F.Cu")
 		(uuid "5012e5ff-fbea-4783-bc1f-4e8fa8878804")
-		(at 131.03 84.02 90)
+		(at 48.939514 81.285998 90)
 		(tags "STM32")
 		(property "Reference" "STM32F103C6T1"
 			(at 0.95 0.61 90)
@@ -1735,7 +1735,7 @@
 	(footprint "LED_SMD:LED_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "5bd74e96-8df0-4ae6-a74d-6b1bef1b1977")
-		(at 146.075 60.4 180)
+		(at 63.984514 57.665998 180)
 		(descr "LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "LED")
 		(property "Reference" "D1"
@@ -1919,7 +1919,7 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "66c5e2a4-3165-4ee0-8d04-b1b0a86f4c9d")
-		(at 143.83 60.41)
+		(at 61.739514 57.675998)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R1"
@@ -2077,7 +2077,7 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "6c810e37-8d74-430d-bb9d-50af9ae0dcff")
-		(at 146.56 105.54 90)
+		(at 64.469514 102.805998 90)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C2"
@@ -2235,7 +2235,7 @@
 	(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "8ee62621-1aa1-4c33-9765-5759835ec9f2")
-		(at 143.94 127.01)
+		(at 61.849514 124.275998)
 		(descr "Terminal Block Phoenix MKDS-1,5-2, 2 pins, pitch 5mm, size 10x9.8mm, drill diameter 1.3mm, pad diameter 2.6mm, http://www.farnell.com/datasheets/100425.pdf")
 		(tags "THT Terminal Block Phoenix MKDS-1,5-2 pitch 5mm size 10x9.8mm drill 1.3mm pad 2.6mm")
 		(property "Reference" "J2"
@@ -2601,7 +2601,7 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "a27dbb36-3500-49f0-8aae-196fc944c6c6")
-		(at 148.03 115.06 180)
+		(at 65.939514 112.325998 180)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C4"
@@ -2759,7 +2759,7 @@
 	(footprint "Capacitor_SMD:C_Elec_6.3x5.8"
 		(layer "F.Cu")
 		(uuid "b9dc2d3c-f3e6-4613-830a-3786d681fe7e")
-		(at 147.56 100.04)
+		(at 65.469514 97.305998)
 		(descr "SMD capacitor, aluminum electrolytic nonpolar, 6.3x5.8mm")
 		(tags "capacitor electrolytic nonpolar")
 		(property "Reference" "C1"
@@ -3166,7 +3166,7 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "bdcf8889-1143-422b-813c-798488db7774")
-		(at 148.54 105.54)
+		(at 66.449514 102.805998)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C3"
@@ -3324,7 +3324,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "d7fc8de4-7b5f-4555-b42e-73f2f19fd982")
-		(at 147.435 118.74 90)
+		(at 65.344514 116.005998 90)
 		(descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x02 2.54mm single row")
 		(property "Reference" "J3"
@@ -3565,7 +3565,7 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "e033c70c-e451-4916-b52d-f8bc67f8b57b")
-		(at 149.85 115.59 -90)
+		(at 67.759514 112.855998 -90)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R2"
@@ -3723,7 +3723,7 @@
 	(footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "e3f4f284-6826-4d64-927e-75377470011e")
-		(at 148.06 110.54 -90)
+		(at 65.969514 107.805998 -90)
 		(descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf)")
 		(tags "SOIC SO")
 		(property "Reference" "U3"
@@ -4105,7 +4105,7 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical"
 		(layer "B.Cu")
 		(uuid "60fea0fe-6eb6-4952-9fad-8759fa860773")
-		(at 146.82 67.22 180)
+		(at 64.729514 64.485998 180)
 		(descr "Through hole straight socket strip, 2x10, 2.54mm pitch, double rows (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 2x10 2.54mm double row")
 		(property "Reference" "J4"
@@ -4599,8 +4599,8 @@
 		)
 	)
 	(gr_rect
-		(start 120.22 57.81)
-		(end 153.04 131.83)
+		(start 38.129514 55.075998)
+		(end 70.949514 129.095998)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -4610,7 +4610,7 @@
 		(uuid "fa64fe62-daf9-4493-aa85-3ca5cb6da10b")
 	)
 	(image
-		(at 244.140486 90.434003)
+		(at 162.05 87.700001)
 		(layer "F.Cu")
 		(scale 0.836542)
 		(data "iVBORw0KGgoAAAANSUhEUgAAAxcAAAFqCAIAAADnYTBdAAAAA3NCSVQICAjb4U/gAAAACXBIWXMA"
