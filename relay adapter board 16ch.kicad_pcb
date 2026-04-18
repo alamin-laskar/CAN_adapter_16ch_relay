@@ -5832,6 +5832,22 @@
 		(net "R12")
 		(uuid "f3423e5e-6a10-4a01-9646-0aa9ca2703c8")
 	)
+	(via
+		(at 145.685 80.205)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(net "R12")
+		(uuid "c9f4d5f2-b241-4044-a767-4a5de0409e0b")
+	)
+	(segment
+		(start 134.78 80.28)
+		(end 145.61 80.28)
+		(width 0.2)
+		(layer "In1.Cu")
+		(net "R12")
+		(uuid "4cb81ffa-05e4-4767-a9dd-b548a1ac82d9")
+	)
 	(zone
 		(net "+5V")
 		(layer "F.Cu")
