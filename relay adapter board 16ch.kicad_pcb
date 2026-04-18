@@ -5258,14 +5258,6 @@
 		(uuid "2632c8e2-0e05-454a-8773-e249ad262404")
 	)
 	(segment
-		(start 171.39 79.01)
-		(end 171.47 79.09)
-		(width 0.2)
-		(layer "In1.Cu")
-		(net "R14")
-		(uuid "5f50e2bb-5076-46bb-95e7-198ac68dd7c7")
-	)
-	(segment
 		(start 146.67 77.76)
 		(end 148 79.09)
 		(width 0.2)
