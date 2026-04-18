@@ -2941,7 +2941,7 @@
 	)
 	(symbol
 		(lib_id "STM32 Blue Pill:STM32F103C6T6")
-		(at 148.59 113.03 180)
+		(at 138.43 111.76 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2952,7 +2952,7 @@
 		(fields_autoplaced yes)
 		(uuid "f8983bf0-4508-4d87-8aa3-58c71e3b0510")
 		(property "Reference" "U1"
-			(at 154.7343 87.63 0)
+			(at 144.5743 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2963,7 +2963,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 148.59 113.03 0)
+			(at 138.43 111.76 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2973,7 +2973,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 148.59 113.03 0)
+			(at 138.43 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2984,7 +2984,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 148.59 113.03 0)
+			(at 138.43 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2995,7 +2995,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 148.59 113.03 0)
+			(at 138.43 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
