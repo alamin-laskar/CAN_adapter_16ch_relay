@@ -3032,6 +3032,18 @@
 		)
 	)
 	(rectangle
+		(start 153.67 22.86)
+		(end 264.16 95.25)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "5e975d7d-0472-423d-9836-f1ac685ab1ae")
+	)
+	(rectangle
 		(start 20.32 22.86)
 		(end 135.89 95.25)
 		(stroke
