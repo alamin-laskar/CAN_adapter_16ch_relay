@@ -3250,7 +3250,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "Status LED"
 			(at 161.29 109.1564 90)
 			(show_name no)
 			(do_not_autoplace no)
