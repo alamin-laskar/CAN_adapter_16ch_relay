@@ -3420,11 +3420,11 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "bdcf8889-1143-422b-813c-798488db7774")
-		(at 122.48 128.5)
+		(at 134 84.52 90)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C3"
-			(at 0 -1.16 0)
+			(at 0 -1.16 90)
 			(layer "F.SilkS")
 			(uuid "96adb4dc-747d-4746-9c12-28dfe78d735c")
 			(effects
@@ -3435,7 +3435,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 0 1.16 0)
+			(at 0 1.16 90)
 			(layer "F.Fab")
 			(uuid "682b185d-a497-4fd7-adf6-5c8a739812af")
 			(effects
@@ -3446,7 +3446,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bbd01a52-491f-4866-9349-52e32ecb0cc9")
@@ -3457,7 +3457,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d6daf75d-3c14-4901-aba3-c720f779a38c")
@@ -3468,7 +3468,7 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "196df96b-b2fc-4647-ad68-8c38f4c1f781")
@@ -3534,7 +3534,7 @@
 			(uuid "73066fcc-101f-4c5f-924f-c35b4cd5fde9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "682b0175-4f05-42e0-832d-342cef20ced4")
 			(effects
@@ -3545,7 +3545,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0)
+			(at -0.48 0 90)
 			(size 0.56 0.62)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -3554,7 +3554,7 @@
 			(uuid "382a9175-d0ab-4ff5-85cc-e00ff4919c7d")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0)
+			(at 0.48 0 90)
 			(size 0.56 0.62)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
