@@ -3539,7 +3539,7 @@
 	)
 	(global_label "CAN_L"
 		(shape input)
-		(at 76.2 66.04 0)
+		(at 67.31 58.42 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3549,7 +3549,7 @@
 		)
 		(uuid "42ff278f-aca0-4192-a59a-fd34d7600105")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 84.87 66.04 0)
+			(at 75.98 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
