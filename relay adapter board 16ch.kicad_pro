@@ -8,7 +8,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "V1"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -234,7 +234,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -404,7 +404,7 @@
     "meta": {
       "version": 1
     },
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "16CH relay adapter board",
     "plot_directory": "",
     "reuse_designators": true,
     "subpart_first_id": 65,
@@ -416,7 +416,7 @@
         "uuid": "524e789b-d01d-4678-ae1f-10e10c0ea50f"
       }
     ],
-    "used_designators": "U1-3,R1-2,J1-3,C1-4,#PWR1-13,D1",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
