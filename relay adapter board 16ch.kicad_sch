@@ -3605,6 +3605,30 @@
 			)
 		)
 	)
+	(global_label "CTX"
+		(shape input)
+		(at 148.59 132.08 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0d5482be-1267-4c34-b678-bc41bf24859f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 155.0223 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "CAN_H"
 		(shape input)
 		(at 237.49 58.42 0)
