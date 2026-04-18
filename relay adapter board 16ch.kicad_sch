@@ -3813,6 +3813,16 @@
 		)
 		(uuid "6406b1a5-6d83-4846-9eae-5c083e9f3097")
 	)
+	(text "20 Pin Female Header"
+		(exclude_from_sim no)
+		(at 193.802 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b6bbcbda-56b7-476b-8917-3d0345249ad8")
+	)
 	(text "MCU Module\n"
 		(exclude_from_sim no)
 		(at 33.782 105.156 0)
