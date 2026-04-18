@@ -4730,6 +4730,22 @@
 		(uuid "961226eb-7ff2-4ed5-944d-589347e286ca")
 	)
 	(segment
+		(start 171.9 108.31)
+		(end 171.975 108.235)
+		(width 0.254)
+		(layer "F.Cu")
+		(net "CAN_H")
+		(uuid "db9e82e2-b7e9-43af-a23a-b5d742f1818a")
+	)
+	(segment
+		(start 171.9 110.28)
+		(end 171.9 108.31)
+		(width 0.254)
+		(layer "F.Cu")
+		(net "CAN_H")
+		(uuid "f2dd0298-8919-44e0-ab71-af958c36dbb6")
+	)
+	(segment
 		(start 171.96 112.96)
 		(end 171.96 111.7)
 		(width 0.254)
