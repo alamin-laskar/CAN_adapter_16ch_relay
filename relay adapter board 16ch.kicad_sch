@@ -3758,6 +3758,18 @@
 		(uuid "5e975d7d-0472-423d-9836-f1ac685ab1ae")
 	)
 	(rectangle
+		(start 182.88 107.95)
+		(end 264.16 161.29)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "8644460f-90f8-49a5-b1ad-5c73f4036528")
+	)
+	(rectangle
 		(start 20.32 22.86)
 		(end 135.89 95.25)
 		(stroke
