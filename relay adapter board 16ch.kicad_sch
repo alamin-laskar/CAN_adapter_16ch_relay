@@ -7898,7 +7898,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 64.262 59.944 0)
+			(at 65.532 59.69 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
