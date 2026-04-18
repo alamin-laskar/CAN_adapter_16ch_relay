@@ -5390,7 +5390,7 @@
 		(dnp no)
 		(uuid "dfd2f89e-666d-44c5-bc12-8a8a93588074")
 		(property "Reference" "J2"
-			(at 44.45 74.93 0)
+			(at 38.1 83.058 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5400,7 +5400,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x02"
-			(at 32.004 82.804 0)
+			(at 40.64 85.09 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
