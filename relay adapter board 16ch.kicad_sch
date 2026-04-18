@@ -3087,6 +3087,17 @@
 		)
 		(uuid "6406b1a5-6d83-4846-9eae-5c083e9f3097")
 	)
+	(text "MCU Module\n"
+		(exclude_from_sim no)
+		(at 33.782 105.156 0)
+		(effects
+			(font
+				(face "KiCad Font")
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "cbf62baf-2baa-41dd-97ba-d84232405ce8")
+	)
 	(junction
 		(at 185.42 45.72)
 		(diameter 0)
