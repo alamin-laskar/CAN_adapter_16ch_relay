@@ -2928,6 +2928,16 @@
 	)
 	(wire
 		(pts
+			(xy 187.96 58.42) (xy 157.48 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10a21810-e5ed-4039-9e57-9d83d307c23f")
+	)
+	(wire
+		(pts
 			(xy 175.26 39.37) (xy 180.34 39.37)
 		)
 		(stroke
@@ -2965,6 +2975,16 @@
 			(type default)
 		)
 		(uuid "440837d2-b7be-4546-bd39-796e64e36cf6")
+	)
+	(wire
+		(pts
+			(xy 157.48 58.42) (xy 157.48 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45023e47-f0a4-4b1f-844a-dc64adf37a1d")
 	)
 	(wire
 		(pts
@@ -3681,7 +3701,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 168.91 62.23 0)
+		(at 157.48 64.77 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3692,7 +3712,7 @@
 		(fields_autoplaced yes)
 		(uuid "81a60006-a2a7-443e-9306-1acf4dca346f")
 		(property "Reference" "#PWR06"
-			(at 168.91 68.58 0)
+			(at 157.48 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3703,7 +3723,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 168.91 67.31 0)
+			(at 157.48 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3713,7 +3733,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 168.91 62.23 0)
+			(at 157.48 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3724,7 +3744,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 62.23 0)
+			(at 157.48 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3735,7 +3755,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 168.91 62.23 0)
+			(at 157.48 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3841,7 +3861,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 168.91 59.69 0)
+		(at 157.48 62.23 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3852,7 +3872,7 @@
 		(fields_autoplaced yes)
 		(uuid "8786a2b5-4092-466b-a3c0-22b8ef24b81f")
 		(property "Reference" "C2"
-			(at 171.45 58.4262 0)
+			(at 160.02 60.9662 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3863,7 +3883,7 @@
 			)
 		)
 		(property "Value" "15pF"
-			(at 171.45 60.9662 0)
+			(at 160.02 63.5062 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3874,7 +3894,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 168.91 59.69 0)
+			(at 157.48 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3885,7 +3905,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 59.69 0)
+			(at 157.48 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3896,7 +3916,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 168.91 59.69 0)
+			(at 157.48 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
