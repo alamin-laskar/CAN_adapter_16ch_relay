@@ -3893,6 +3893,30 @@
 			)
 		)
 	)
+	(global_label "R12"
+		(shape input)
+		(at 127 93.98 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6dde6b81-06c0-4c2c-ab0b-e88d5863a341")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 120.3258 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "R8"
 		(shape input)
 		(at 148.59 119.38 0)
