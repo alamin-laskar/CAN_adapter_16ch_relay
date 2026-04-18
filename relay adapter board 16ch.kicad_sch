@@ -3911,10 +3911,6 @@
 		(uuid "5f26611a-307a-4ef2-bd69-8b82e6cc4713")
 	)
 	(no_connect
-		(at 92.71 157.48)
-		(uuid "6333cfcd-4fb7-46c1-9c2a-9ca19ed2a700")
-	)
-	(no_connect
 		(at 92.71 147.32)
 		(uuid "68a6ab40-0a3e-48c5-be2b-969837eea08d")
 	)
@@ -4930,7 +4926,7 @@
 	)
 	(global_label "Status LED"
 		(shape input)
-		(at 92.71 154.94 180)
+		(at 92.71 157.48 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4938,9 +4934,9 @@
 			)
 			(justify right)
 		)
-		(uuid "73620850-54ae-4bc5-9487-a04ef14332e8")
+		(uuid "72148a63-1113-4ce1-9935-d6640640f851")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 79.3231 154.94 0)
+			(at 79.3231 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
