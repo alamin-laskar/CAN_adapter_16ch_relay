@@ -3077,6 +3077,16 @@
 		)
 		(uuid "2c0935e9-4f70-47e0-9010-f45496902796")
 	)
+	(text "CAN Module\n"
+		(exclude_from_sim no)
+		(at 160.782 21.336 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6406b1a5-6d83-4846-9eae-5c083e9f3097")
+	)
 	(junction
 		(at 185.42 45.72)
 		(diameter 0)
