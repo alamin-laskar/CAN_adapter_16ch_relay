@@ -2929,12 +2929,6 @@
 		(uuid "6e57fc10-7cba-46a2-b41f-b8cd7ae46643")
 	)
 	(junction
-		(at 218.44 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b860a9b1-e6c4-4bed-bc2e-465998bcfec4")
-	)
-	(junction
 		(at 138.43 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2976,7 +2970,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 62.23) (xy 254 63.5)
+			(xy 254 64.77) (xy 254 66.04)
 		)
 		(stroke
 			(width 0)
@@ -3013,6 +3007,16 @@
 			(type default)
 		)
 		(uuid "39588fcf-4783-45f0-9b00-999b250417ad")
+	)
+	(wire
+		(pts
+			(xy 245.11 58.42) (xy 245.11 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3eb6d974-c6b0-40b6-9354-37eccf2c947e")
 	)
 	(wire
 		(pts
@@ -3086,7 +3090,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 63.5) (xy 251.46 63.5)
+			(xy 218.44 66.04) (xy 251.46 66.04)
 		)
 		(stroke
 			(width 0)
@@ -3133,6 +3137,16 @@
 			(type default)
 		)
 		(uuid "8faaf5d6-f915-477c-a0c2-ef44525f4283")
+	)
+	(wire
+		(pts
+			(xy 218.44 66.04) (xy 218.44 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d2ec676-34f6-47de-9268-00ef4fd409dd")
 	)
 	(wire
 		(pts
@@ -3206,6 +3220,16 @@
 	)
 	(wire
 		(pts
+			(xy 245.11 59.69) (xy 254 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3b58790-ef8b-4285-9dea-1d00841aa66d")
+	)
+	(wire
+		(pts
 			(xy 180.34 44.45) (xy 180.34 45.72)
 		)
 		(stroke
@@ -3226,7 +3250,7 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 58.42) (xy 242.57 58.42)
+			(xy 218.44 58.42) (xy 245.11 58.42)
 		)
 		(stroke
 			(width 0)
@@ -4332,7 +4356,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 251.46 68.58 90)
+		(at 251.46 71.12 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4342,7 +4366,7 @@
 		(dnp no)
 		(uuid "afdffaa9-cbaa-4f7f-8f0a-bc6a9cc1c9be")
 		(property "Reference" "J3"
-			(at 250.698 79.502 0)
+			(at 250.698 82.042 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4352,7 +4376,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 252.984 77.724 0)
+			(at 252.984 80.264 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4362,7 +4386,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch5.08mm_Drill1.3mm"
-			(at 251.46 68.58 0)
+			(at 251.46 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4373,7 +4397,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 251.46 68.58 0)
+			(at 251.46 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4384,7 +4408,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 251.46 68.58 0)
+			(at 251.46 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4727,7 +4751,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 254 59.69 0)
+		(at 254 62.23 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4738,7 +4762,7 @@
 		(fields_autoplaced yes)
 		(uuid "d95fddd9-b5ae-479e-a3ea-31a357769be1")
 		(property "Reference" "R2"
-			(at 259.08 59.69 90)
+			(at 259.08 62.23 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4748,7 +4772,7 @@
 			)
 		)
 		(property "Value" "R_Small"
-			(at 256.54 59.69 90)
+			(at 256.54 62.23 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4758,7 +4782,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 254 59.69 0)
+			(at 254 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4769,7 +4793,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 254 59.69 0)
+			(at 254 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4780,7 +4804,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 254 59.69 0)
+			(at 254 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
