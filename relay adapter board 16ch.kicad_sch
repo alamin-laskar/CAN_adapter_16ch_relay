@@ -3824,12 +3824,6 @@
 		(uuid "69bd05ae-4411-4943-a31d-63e00048165a")
 	)
 	(junction
-		(at 57.15 55.88)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6bc33f6b-a696-4640-b003-55c76725c8ff")
-	)
-	(junction
 		(at 187.96 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3932,16 +3926,6 @@
 	(no_connect
 		(at 92.71 149.86)
 		(uuid "e0814d62-e230-4a44-99b5-ba4518066eef")
-	)
-	(wire
-		(pts
-			(xy 57.15 55.88) (xy 59.69 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "09d096bb-df77-4eee-a419-ae0f6013306a")
 	)
 	(wire
 		(pts
@@ -4125,16 +4109,6 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 55.88) (xy 57.15 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "534c5681-620d-4cf4-a718-4cc6cac0a943")
-	)
-	(wire
-		(pts
 			(xy 200.66 39.37) (xy 190.5 39.37)
 		)
 		(stroke
@@ -4255,6 +4229,16 @@
 	)
 	(wire
 		(pts
+			(xy 57.15 59.69) (xy 57.15 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c8a88de-7d21-4a15-8b52-48e8b1c1500f")
+	)
+	(wire
+		(pts
 			(xy 218.44 66.04) (xy 218.44 63.5)
 		)
 		(stroke
@@ -4355,7 +4339,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 54.61) (xy 57.15 55.88)
+			(xy 57.15 54.61) (xy 57.15 57.15)
 		)
 		(stroke
 			(width 0)
@@ -4801,7 +4785,7 @@
 	)
 	(global_label "CAN_L"
 		(shape input)
-		(at 59.69 55.88 0)
+		(at 57.15 55.88 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4811,7 +4795,7 @@
 		)
 		(uuid "42ff278f-aca0-4192-a59a-fd34d7600105")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 68.36 55.88 0)
+			(at 65.82 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5353,7 +5337,7 @@
 	)
 	(global_label "CAN_H"
 		(shape input)
-		(at 57.15 62.23 0)
+		(at 57.15 60.96 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5363,7 +5347,7 @@
 		)
 		(uuid "d0b5f7ed-8fd4-4482-a5c6-f977f05713c3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 66.1224 62.23 0)
+			(at 66.1224 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
