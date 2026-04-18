@@ -3845,7 +3845,7 @@
 			)
 		)
 	)
-	(global_label "R9"
+	(global_label "R10"
 		(shape input)
 		(at 127 99.06 180)
 		(fields_autoplaced yes)
@@ -3857,7 +3857,7 @@
 		)
 		(uuid "6c703d36-f859-4462-bf71-a3b36ec49280")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 121.5353 99.06 0)
+			(at 120.3258 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
