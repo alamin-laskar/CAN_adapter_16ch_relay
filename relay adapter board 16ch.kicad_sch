@@ -3933,10 +3933,6 @@
 		(uuid "5f26611a-307a-4ef2-bd69-8b82e6cc4713")
 	)
 	(no_connect
-		(at 114.3 154.94)
-		(uuid "670b58d1-aad3-405b-8630-188bcd68f4fb")
-	)
-	(no_connect
 		(at 92.71 147.32)
 		(uuid "68a6ab40-0a3e-48c5-be2b-969837eea08d")
 	)
@@ -3971,10 +3967,6 @@
 	(no_connect
 		(at 92.71 149.86)
 		(uuid "e0814d62-e230-4a44-99b5-ba4518066eef")
-	)
-	(no_connect
-		(at 114.3 160.02)
-		(uuid "ed6e4c6d-a2a7-4ab2-a628-fe8872871d0d")
 	)
 	(wire
 		(pts
