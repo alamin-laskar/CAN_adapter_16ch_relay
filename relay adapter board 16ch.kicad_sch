@@ -4142,16 +4142,6 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 134.62) (xy 114.3 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6a6f49de-dfe3-4504-97bb-095c717042c7")
-	)
-	(wire
-		(pts
 			(xy 227.33 149.86) (xy 220.98 149.86)
 		)
 		(stroke
@@ -4680,7 +4670,7 @@
 	)
 	(global_label "R1"
 		(shape input)
-		(at 115.57 134.62 0)
+		(at 114.3 134.62 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4690,7 +4680,7 @@
 		)
 		(uuid "2c7802c6-4486-44fc-bd27-ba320c712e4b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 121.0347 134.62 0)
+			(at 119.7647 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
