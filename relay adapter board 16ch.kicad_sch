@@ -2661,7 +2661,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_Small_Filled")
-		(at 101.6 48.26 0)
+		(at 175.26 113.03 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2672,7 +2672,7 @@
 		(fields_autoplaced yes)
 		(uuid "549e2c97-25e2-4fe9-b62a-76a2afb86c8f")
 		(property "Reference" "D1"
-			(at 101.6635 41.91 0)
+			(at 175.3235 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2682,7 +2682,7 @@
 			)
 		)
 		(property "Value" "LED_Small_Filled"
-			(at 101.6635 44.45 0)
+			(at 175.3235 109.22 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2692,7 +2692,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 101.6 48.26 90)
+			(at 175.26 113.03 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2703,7 +2703,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 48.26 90)
+			(at 175.26 113.03 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2714,7 +2714,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, small symbol, filled shape"
-			(at 101.6 48.26 0)
+			(at 175.26 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2725,7 +2725,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 101.6 48.26 0)
+			(at 175.26 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3097,7 +3097,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 83.82 44.45 0)
+		(at 157.48 109.22 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3108,7 +3108,7 @@
 		(fields_autoplaced yes)
 		(uuid "a8ac652b-76b3-4f70-a091-0febfc7f8004")
 		(property "Reference" "R1"
-			(at 86.36 43.1799 0)
+			(at 160.02 107.9499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3119,7 +3119,7 @@
 			)
 		)
 		(property "Value" "R_Small"
-			(at 86.36 45.7199 0)
+			(at 160.02 110.4899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3130,7 +3130,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 83.82 44.45 0)
+			(at 157.48 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3141,7 +3141,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 83.82 44.45 0)
+			(at 157.48 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3152,7 +3152,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 83.82 44.45 0)
+			(at 157.48 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
