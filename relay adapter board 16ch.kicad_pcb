@@ -1155,11 +1155,11 @@
 	(footprint "LED_SMD:LED_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "5bd74e96-8df0-4ae6-a74d-6b1bef1b1977")
-		(at 175.5 95.5 180)
+		(at 175 95 -90)
 		(descr "LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "LED")
 		(property "Reference" "D1"
-			(at 0 -1.17 0)
+			(at 0 -1.17 90)
 			(layer "F.SilkS")
 			(uuid "acb0182c-3fdc-470d-92d6-ebb2984a8aec")
 			(effects
@@ -1170,7 +1170,7 @@
 			)
 		)
 		(property "Value" "Status LED"
-			(at -45.405 60.755 0)
+			(at -45.405 60.755 90)
 			(layer "F.Fab")
 			(uuid "dc0ab560-09a6-4910-9d9c-371fe08061a1")
 			(effects
@@ -1181,7 +1181,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cddec734-18e5-4987-bd65-d343118ad81e")
@@ -1192,7 +1192,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, small symbol, filled shape"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e1afee06-070b-40fe-b155-5e295071a3c6")
@@ -1203,7 +1203,7 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "bb2a8829-7781-46e8-8881-e9ab4ba04109")
@@ -1215,7 +1215,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 180)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1262,16 +1262,6 @@
 			(uuid "c1fc3f92-f766-476a-ab0f-219a52a05ad1")
 		)
 		(fp_line
-			(start -0.3 0.25)
-			(end -0.3 -0.25)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "6ebdbf99-4542-4f8b-99d9-b1c8654d224e")
-		)
-		(fp_line
 			(start -0.4 0.25)
 			(end -0.4 -0.25)
 			(stroke
@@ -1280,6 +1270,16 @@
 			)
 			(layer "F.Fab")
 			(uuid "3d6fae58-041b-413b-884c-32bb1f52bc4c")
+		)
+		(fp_line
+			(start -0.3 0.25)
+			(end -0.3 -0.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "6ebdbf99-4542-4f8b-99d9-b1c8654d224e")
 		)
 		(fp_rect
 			(start -0.5 -0.25)
@@ -1293,7 +1293,7 @@
 			(uuid "7a8ea6b3-34bd-4ad8-8c18-93ac263ce3d4")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "5cc1c962-46da-4ab0-8fc5-de1c6bf48bb5")
 			(effects
@@ -1304,7 +1304,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.485 0 180)
+			(at -0.485 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -1314,7 +1314,7 @@
 			(uuid "cfcc1ee6-19fe-4b80-991e-4c4130c94ea6")
 		)
 		(pad "2" smd roundrect
-			(at 0.485 0 180)
+			(at 0.485 0 270)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -2173,7 +2173,7 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "66c5e2a4-3165-4ee0-8d04-b1b0a86f4c9d")
-		(at 173 95.5)
+		(at 173.48 95.5)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R1"
