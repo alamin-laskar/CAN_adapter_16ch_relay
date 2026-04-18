@@ -3069,10 +3069,10 @@
 	)
 	(text "Connectors\n"
 		(exclude_from_sim no)
-		(at 30.988 26.67 0)
+		(at 30.734 20.828 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 2.54 2.54)
 			)
 		)
 		(uuid "2c0935e9-4f70-47e0-9010-f45496902796")
