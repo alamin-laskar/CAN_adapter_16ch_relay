@@ -4818,14 +4818,6 @@
 		(uuid "f7611466-b785-4a2c-bcb2-e27f66bc5d82")
 	)
 	(segment
-		(start 171.975 101.035)
-		(end 171.71 100.77)
-		(width 0.254)
-		(layer "F.Cu")
-		(net "GND")
-		(uuid "e7e13e09-1916-446e-a154-7d61135ebdd3")
-	)
-	(segment
 		(start 169.435 106.815)
 		(end 165.79 103.17)
 		(width 0.254)
@@ -4944,14 +4936,6 @@
 		(layer "In1.Cu")
 		(net "CAN_S")
 		(uuid "d118dc48-d9ac-4552-98c5-b52bb80f2bf3")
-	)
-	(segment
-		(start 170.705 100.815)
-		(end 170.75 100.77)
-		(width 0.254)
-		(layer "F.Cu")
-		(net "+5V")
-		(uuid "6f65755b-0992-44b6-bf40-7864be0c9798")
 	)
 	(segment
 		(start 166.500486 112.779002)
