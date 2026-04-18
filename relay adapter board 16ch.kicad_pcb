@@ -1908,11 +1908,11 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "66c5e2a4-3165-4ee0-8d04-b1b0a86f4c9d")
-		(at 145.67 61.71 90)
+		(at 144.84 60.99)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R1"
-			(at 0 -1.16 90)
+			(at 0 -1.16 0)
 			(layer "F.SilkS")
 			(uuid "369e5efa-87d7-4ad1-b32c-266a54405937")
 			(effects
@@ -1923,7 +1923,7 @@
 			)
 		)
 		(property "Value" "330"
-			(at -0.095 1.16 90)
+			(at -0.095 1.16 0)
 			(layer "F.Fab")
 			(uuid "112d23fd-ba1c-49f5-817e-27d6eef7987d")
 			(effects
@@ -1934,7 +1934,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 90)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fd894f99-2995-4893-96af-e9659acb1d6f")
@@ -1945,7 +1945,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 0 0 90)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2eac5441-04e5-4ead-b44a-f906631a0281")
@@ -1956,7 +1956,7 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
-			(at 0 0 90)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "6c67d876-810e-46b4-afe0-5ce1bc10a503")
@@ -2022,7 +2022,7 @@
 			(uuid "f8be9999-281e-4407-a0dd-fc2e560ed641")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "35581363-eaa9-4550-b386-74da1cfedbbd")
 			(effects
@@ -2033,7 +2033,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.48 0 90)
+			(at -0.48 0)
 			(size 0.56 0.62)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -2042,7 +2042,7 @@
 			(uuid "a696d0a8-c375-4ee0-9142-ad7f34194a7d")
 		)
 		(pad "2" smd roundrect
-			(at 0.48 0 90)
+			(at 0.48 0)
 			(size 0.56 0.62)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
