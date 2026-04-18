@@ -4626,30 +4626,6 @@
 			)
 		)
 	)
-	(global_label "Status LED"
-		(shape input)
-		(at 92.71 139.7 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1bc40eb8-4111-4f9b-b3e7-c4d15dac9944")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 79.3231 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "R13"
 		(shape input)
 		(at 92.71 129.54 180)
@@ -5047,6 +5023,30 @@
 		(uuid "71828207-7911-4376-8720-e6aef9051964")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 209.1653 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "Status LED"
+		(shape input)
+		(at 92.71 154.94 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "73620850-54ae-4bc5-9487-a04ef14332e8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 79.3231 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
