@@ -4673,6 +4673,22 @@
 		(layer "Edge.Cuts")
 		(uuid "fa64fe62-daf9-4493-aa85-3ca5cb6da10b")
 	)
+	(segment
+		(start 157.98 114.93)
+		(end 157.98 112.39)
+		(width 0.254)
+		(layer "In1.Cu")
+		(net "CAN_L")
+		(uuid "9965a816-3052-418c-bc0a-b9e3c0fd22b3")
+	)
+	(segment
+		(start 160.52 116.2)
+		(end 160.52 113.66)
+		(width 0.254)
+		(layer "In1.Cu")
+		(net "CAN_H")
+		(uuid "67c1af6c-67f6-4119-bcb5-18225f5a2983")
+	)
 	(zone
 		(net "+12V")
 		(layer "F.Cu")
