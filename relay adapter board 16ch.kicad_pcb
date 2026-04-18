@@ -1235,7 +1235,7 @@
 		(uuid "85f5c90b-6aa2-480b-8a6c-a8e91a71f4b9")
 		(at 154.42 79.29 90)
 		(tags "STM32")
-		(property "Reference" "STM32F103C6T1"
+		(property "Reference" "STM32F103C6T16"
 			(at 0.95 0.61 90)
 			(unlocked yes)
 			(layer "F.SilkS")
