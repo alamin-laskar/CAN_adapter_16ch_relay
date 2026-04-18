@@ -2498,6 +2498,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(wire
+		(pts
+			(xy 57.15 49.53) (xy 57.15 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "525a9399-cfe4-458b-8b0d-0c478a9f2d56")
+	)
+	(wire
+		(pts
+			(xy 57.15 64.77) (xy 57.15 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "628f8ee9-61bb-4c0f-92aa-884a509d7e2c")
+	)
 	(symbol
 		(lib_id "Connector:RJ45_Shielded")
 		(at 46.99 59.69 0)
