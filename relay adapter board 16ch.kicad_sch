@@ -2984,6 +2984,16 @@
 	)
 	(wire
 		(pts
+			(xy 213.36 63.5) (xy 218.44 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39588fcf-4783-45f0-9b00-999b250417ad")
+	)
+	(wire
+		(pts
 			(xy 190.5 45.72) (xy 190.5 44.45)
 		)
 		(stroke
@@ -4381,7 +4391,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "100pF"
 			(at 220.98 62.2362 0)
 			(show_name no)
 			(do_not_autoplace no)
