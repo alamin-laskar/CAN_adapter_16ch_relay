@@ -655,6 +655,17 @@
 			(uuid "212069e2-bcf8-424e-8320-5784b70c6fe8")
 		)
 		(embedded_fonts no)
+		(model "C:/Users/alami/Documents/KiCad/10.0/3dmodels/RJ45-8Z4.step"
+			(offset
+				(xyz 0 1.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "STM32F103C6T6 Blue Pill:STM32F103C6T6"
 		(layer "F.Cu")
