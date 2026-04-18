@@ -90,7 +90,7 @@
 	(footprint "STM32F103C6T6 Blue Pill:STM32F103C6T6"
 		(layer "F.Cu")
 		(uuid "5012e5ff-fbea-4783-bc1f-4e8fa8878804")
-		(at 69.88 87.92 -90)
+		(at 113.11 80.35 -90)
 		(tags "STM32")
 		(property "Reference" "STM32F103C6T1"
 			(at 0.95 0.61 270)
