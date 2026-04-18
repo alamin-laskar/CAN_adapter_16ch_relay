@@ -3055,6 +3055,18 @@
 		)
 		(uuid "b1e8d5a3-e65f-4a80-9b45-6d159b56ee72")
 	)
+	(rectangle
+		(start 20.32 107.95)
+		(end 153.67 190.5)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "e1629b73-3928-4941-845f-b0b3128fe4a1")
+	)
 	(junction
 		(at 185.42 45.72)
 		(diameter 0)
