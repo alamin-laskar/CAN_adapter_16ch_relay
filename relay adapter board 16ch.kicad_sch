@@ -3878,6 +3878,12 @@
 		(color 0 0 0 0)
 		(uuid "f117aa5c-bcd0-4472-8499-0aac991a91c7")
 	)
+	(junction
+		(at 57.15 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f57f4619-74f8-487d-bdfc-8c39a1c7d383")
+	)
 	(no_connect
 		(at 92.71 160.02)
 		(uuid "2fe276ea-4341-48f3-b7ea-08bf7e38aded")
@@ -3939,6 +3945,16 @@
 			(type default)
 		)
 		(uuid "0ae64f87-472f-43f8-bc4f-f49a192fdf00")
+	)
+	(wire
+		(pts
+			(xy 57.15 60.96) (xy 57.15 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bf8b179-e986-47ca-ae60-5e09a9f62a06")
 	)
 	(wire
 		(pts
@@ -4212,7 +4228,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 59.69) (xy 57.15 62.23)
+			(xy 57.15 59.69) (xy 57.15 60.96)
 		)
 		(stroke
 			(width 0)
@@ -5334,7 +5350,7 @@
 	)
 	(global_label "CAN_H"
 		(shape input)
-		(at 69.85 59.69 0)
+		(at 57.15 50.8 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5344,7 +5360,7 @@
 		)
 		(uuid "d0b5f7ed-8fd4-4482-a5c6-f977f05713c3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 78.8224 59.69 0)
+			(at 66.1224 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6281,7 +6297,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 60.96 50.8 0)
+		(at 57.15 60.96 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6292,7 +6308,7 @@
 		(fields_autoplaced yes)
 		(uuid "51875e47-40de-41ba-bdd9-87c46a7dcb6a")
 		(property "Reference" "#PWR010"
-			(at 60.96 54.61 0)
+			(at 53.34 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6303,17 +6319,18 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 60.96 45.72 0)
+			(at 60.96 60.9599 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 60.96 50.8 0)
+			(at 57.15 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6324,7 +6341,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 50.8 0)
+			(at 57.15 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6335,7 +6352,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 60.96 50.8 0)
+			(at 57.15 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
