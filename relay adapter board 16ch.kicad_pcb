@@ -1339,7 +1339,7 @@
 	(footprint "Connector_RJ:RJ45_Amphenol_54602-x08_Horizontal"
 		(layer "F.Cu")
 		(uuid "5bfe5a98-53a8-4ca8-87e1-62a201db823e")
-		(at 165.2175 110.5725)
+		(at 103.84 107.15)
 		(descr "8 Pol Shallow Latch Connector, Modjack, RJ45 (https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0102.pdf)")
 		(tags "RJ45")
 		(property "Reference" "J1"
@@ -1841,7 +1841,7 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "6c810e37-8d74-430d-bb9d-50af9ae0dcff")
-		(at 168.5 93.6725 -90)
+		(at 107.1225 90.25 -90)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C2"
@@ -1999,7 +1999,7 @@
 	(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "8ee62621-1aa1-4c33-9765-5759835ec9f2")
-		(at 168.5 61.1725)
+		(at 107.1225 57.75)
 		(descr "Terminal Block Phoenix MKDS-1,5-2, 2 pins, pitch 5mm, size 10x9.8mm, drill diameter 1.3mm, pad diameter 2.6mm, http://www.farnell.com/datasheets/100425.pdf")
 		(tags "THT Terminal Block Phoenix MKDS-1,5-2 pitch 5mm size 10x9.8mm drill 1.3mm pad 2.6mm")
 		(property "Reference" "J2"
@@ -2365,7 +2365,7 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "a27dbb36-3500-49f0-8aae-196fc944c6c6")
-		(at 164.5 80.1925 -90)
+		(at 103.1225 76.77 -90)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C4"
@@ -2523,7 +2523,7 @@
 	(footprint "Capacitor_SMD:C_Elec_6.3x5.8"
 		(layer "F.Cu")
 		(uuid "b9dc2d3c-f3e6-4613-830a-3786d681fe7e")
-		(at 167.5 99.1725 180)
+		(at 106.1225 95.75 180)
 		(descr "SMD capacitor, aluminum electrolytic nonpolar, 6.3x5.8mm")
 		(tags "capacitor electrolytic nonpolar")
 		(property "Reference" "C1"
@@ -2930,7 +2930,7 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "bdcf8889-1143-422b-813c-798488db7774")
-		(at 166.52 93.6725 180)
+		(at 105.1425 90.25 180)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C3"
@@ -3088,7 +3088,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "d7fc8de4-7b5f-4555-b42e-73f2f19fd982")
-		(at 169.525 80.6925 180)
+		(at 108.1475 77.27 180)
 		(descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x02 2.54mm single row")
 		(property "Reference" "J3"
@@ -3329,7 +3329,7 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "e033c70c-e451-4916-b52d-f8bc67f8b57b")
-		(at 164.5 78.1925 90)
+		(at 103.1225 74.77 90)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R2"
@@ -3487,7 +3487,7 @@
 	(footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "e3f4f284-6826-4d64-927e-75377470011e")
-		(at 167 88.6725 90)
+		(at 105.6225 85.25 90)
 		(descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf)")
 		(tags "SOIC SO")
 		(property "Reference" "U3"
