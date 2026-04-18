@@ -4882,6 +4882,22 @@
 		(uuid "773c0aec-4911-4c96-b0d3-e959165b622b")
 	)
 	(segment
+		(start 169.435 101.255)
+		(end 169.39 101.21)
+		(width 0.254)
+		(layer "F.Cu")
+		(net "CRX")
+		(uuid "79103eb7-586c-4438-bfce-218f1dfad8ef")
+	)
+	(segment
+		(start 169.435 103.285)
+		(end 169.435 101.255)
+		(width 0.254)
+		(layer "F.Cu")
+		(net "CRX")
+		(uuid "f096c16b-d395-4c97-9cc3-14b3aead6e08")
+	)
+	(segment
 		(start 170.15 105.99)
 		(end 172.11 105.99)
 		(width 0.2)
