@@ -3503,7 +3503,7 @@
 	)
 	(symbol
 		(lib_id "STM32 Blue Pill:STM32F103C6T6")
-		(at 138.43 111.76 180)
+		(at 138.43 111.76 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3514,14 +3514,14 @@
 		(fields_autoplaced yes)
 		(uuid "f8983bf0-4508-4d87-8aa3-58c71e3b0510")
 		(property "Reference" "U1"
-			(at 144.5743 86.36 0)
+			(at 142.7214 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" ""
