@@ -2970,6 +2970,16 @@
 	)
 	(wire
 		(pts
+			(xy 231.14 58.42) (xy 232.41 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2943e70f-2e11-43e1-a1e5-083df084d239")
+	)
+	(wire
+		(pts
 			(xy 213.36 58.42) (xy 218.44 58.42)
 		)
 		(stroke
@@ -4306,7 +4316,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 260.35 60.96 180)
+		(at 237.49 60.96 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4316,7 +4326,7 @@
 		(dnp no)
 		(uuid "afdffaa9-cbaa-4f7f-8f0a-bc6a9cc1c9be")
 		(property "Reference" "J3"
-			(at 271.272 61.722 0)
+			(at 248.412 61.722 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4326,7 +4336,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 269.494 59.436 0)
+			(at 246.634 59.436 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4336,7 +4346,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_2Pads_Pitch5.08mm_Drill1.3mm"
-			(at 260.35 60.96 0)
+			(at 237.49 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4347,7 +4357,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 260.35 60.96 0)
+			(at 237.49 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4358,7 +4368,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 260.35 60.96 0)
+			(at 237.49 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
