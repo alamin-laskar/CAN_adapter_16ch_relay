@@ -734,13 +734,13 @@
 	(footprint "STM32F103C6T6 Blue Pill:STM32F103C6T6"
 		(layer "F.Cu")
 		(uuid "5012e5ff-fbea-4783-bc1f-4e8fa8878804")
-		(at 155.85 80.49 90)
+		(at 154.29 79.26 90)
 		(tags "STM32")
 		(property "Reference" "STM32F103C6T1"
 			(at 0.95 0.61 90)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "14786980-fb00-4fdf-9893-076ef9d0845c")
+			(uuid "27793bc6-a05c-4b51-b30d-d7679664f5dc")
 			(effects
 				(font
 					(size 1 1)
@@ -752,7 +752,7 @@
 			(at 0.95 2.11 90)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "a18dbd4d-5780-45c8-964e-ee41d15d4cd2")
+			(uuid "6cdb2a7e-175a-4656-97cb-509d8b82acef")
 			(effects
 				(font
 					(size 1 1)
@@ -765,7 +765,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "956f636c-92ad-4e62-a261-5a3fad3c0175")
+			(uuid "62ece861-652c-4ae0-a9b7-e476e3b7bfbd")
 			(effects
 				(font
 					(size 1 1)
@@ -778,7 +778,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6b221664-b8c3-42cb-81b7-3ac49bf098b8")
+			(uuid "f584feac-802e-4876-b1df-17d4fa0a7cc5")
 			(effects
 				(font
 					(size 1 1)
