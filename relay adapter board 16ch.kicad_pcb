@@ -4866,6 +4866,14 @@
 		(uuid "773c0aec-4911-4c96-b0d3-e959165b622b")
 	)
 	(segment
+		(start 157.99 99.24)
+		(end 162.6 99.24)
+		(width 0.2)
+		(layer "In1.Cu")
+		(net "CAN_S")
+		(uuid "32425676-8d53-4532-82e8-1e7336e4557a")
+	)
+	(segment
 		(start 146.67 87.92)
 		(end 157.99 99.24)
 		(width 0.2)
