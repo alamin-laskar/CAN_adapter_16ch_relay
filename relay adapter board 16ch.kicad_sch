@@ -3843,6 +3843,12 @@
 		(uuid "493457f7-f2c1-45a2-aa55-dd6e5ae2f196")
 	)
 	(junction
+		(at 62.23 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "59b78d0e-12c0-4e1d-a497-dba6fbf8ebbb")
+	)
+	(junction
 		(at 220.98 149.86)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7871,7 +7877,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 78.74 48.26 180)
+		(at 62.23 60.96 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7879,10 +7885,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ec6cdcf7-c7b3-4bba-aa8e-9d1c4b4cb7d2")
 		(property "Reference" "#PWR010"
-			(at 78.74 44.45 0)
+			(at 62.23 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7893,7 +7898,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 78.74 53.34 0)
+			(at 64.262 59.944 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7903,7 +7908,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 78.74 48.26 0)
+			(at 62.23 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7914,7 +7919,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 78.74 48.26 0)
+			(at 62.23 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7925,7 +7930,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 78.74 48.26 0)
+			(at 62.23 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
