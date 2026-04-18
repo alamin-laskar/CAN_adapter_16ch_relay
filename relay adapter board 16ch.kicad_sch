@@ -3587,7 +3587,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 161.29 60.96 0)
+		(at 162.56 58.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3598,7 +3598,7 @@
 		(fields_autoplaced yes)
 		(uuid "8786a2b5-4092-466b-a3c0-22b8ef24b81f")
 		(property "Reference" "C2"
-			(at 163.83 59.6962 0)
+			(at 165.1 57.1562 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3608,8 +3608,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 163.83 62.2362 0)
+		(property "Value" "15pF"
+			(at 165.1 59.6962 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3620,7 +3620,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 161.29 60.96 0)
+			(at 162.56 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3631,7 +3631,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 161.29 60.96 0)
+			(at 162.56 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3642,7 +3642,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 161.29 60.96 0)
+			(at 162.56 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
