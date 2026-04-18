@@ -1264,7 +1264,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Interface_CAN_LIN:TJA1051T"
+		(symbol "Interface_CAN_LIN:TJA1051T-3"
 			(pin_names
 				(offset 1.016)
 			)
@@ -1284,7 +1284,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "TJA1051T"
+			(property "Value" "TJA1051T-3"
 				(at 1.27 8.89 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1318,7 +1318,7 @@
 					)
 				)
 			)
-			(property "Description" "High-Speed CAN Transceiver, silent mode, SOIC-8"
+			(property "Description" "High-Speed CAN Transceiver, separate VIO, silent mode, SOIC-8"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1351,7 +1351,7 @@
 					)
 				)
 			)
-			(symbol "TJA1051T_0_1"
+			(symbol "TJA1051T-3_0_1"
 				(rectangle
 					(start -10.16 7.62)
 					(end 10.16 -7.62)
@@ -1364,7 +1364,7 @@
 					)
 				)
 			)
-			(symbol "TJA1051T_1_1"
+			(symbol "TJA1051T-3_1_1"
 				(pin input line
 					(at -12.7 5.08 0)
 					(length 2.54)
@@ -1437,11 +1437,10 @@
 						)
 					)
 				)
-				(pin no_connect line
-					(at -10.16 -2.54 0)
+				(pin power_in line
+					(at -12.7 -2.54 0)
 					(length 2.54)
-					(hide yes)
-					(name "NC"
+					(name "VIO"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2420,107 +2419,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Interface_CAN_LIN:TJA1051T")
-		(at 190.5 39.37 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "45848412-570d-4b71-b67c-226b80c6ec94")
-		(property "Reference" "U2"
-			(at 192.6433 26.67 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TJA1051T"
-			(at 192.6433 29.21 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 190.5 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-		(property "Datasheet" "http://www.nxp.com/docs/en/data-sheet/TJA1051.pdf"
-			(at 190.5 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "High-Speed CAN Transceiver, silent mode, SOIC-8"
-			(at 190.5 39.37 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "6"
-			(uuid "bb77ae88-98db-4e91-9eb4-2cfab721e0f4")
-		)
-		(pin "4"
-			(uuid "4941022c-4e4f-4395-ba65-375070b4856d")
-		)
-		(pin "5"
-			(uuid "ca8c00ca-e7f7-4a80-92fc-af55c47ad4ca")
-		)
-		(pin "7"
-			(uuid "212eeb6b-dbed-4454-8339-1141aaf97b2d")
-		)
-		(pin "8"
-			(uuid "b3e9343b-8dec-40b2-a377-641e52452fc3")
-		)
-		(pin "1"
-			(uuid "87098e65-9b0f-4b0a-8250-b7eaf3bdf89f")
-		)
-		(pin "2"
-			(uuid "e740cfc2-f46d-4e35-abc5-881a669999cb")
-		)
-		(pin "3"
-			(uuid "bfc838f6-5a95-424e-9c8d-1c73b9d9dc1e")
-		)
-		(instances
-			(project "relay adapter board 16ch"
-				(path "/524e789b-d01d-4678-ae1f-10e10c0ea50f"
-					(reference "U2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED_Small_Filled")
 		(at 101.6 48.26 0)
 		(unit 1)
@@ -2686,6 +2584,107 @@
 			(project "relay adapter board 16ch"
 				(path "/524e789b-d01d-4678-ae1f-10e10c0ea50f"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Interface_CAN_LIN:TJA1051T-3")
+		(at 243.84 39.37 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7f9d50da-60ce-41c4-98d8-028b84745699")
+		(property "Reference" "U3"
+			(at 245.9833 26.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TJA1051T-3"
+			(at 245.9833 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 243.84 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Datasheet" "http://www.nxp.com/docs/en/data-sheet/TJA1051.pdf"
+			(at 243.84 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "High-Speed CAN Transceiver, separate VIO, silent mode, SOIC-8"
+			(at 243.84 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "032c1982-e80f-49d9-93cf-0dde710cbc0e")
+		)
+		(pin "4"
+			(uuid "574a2373-d786-48ef-949f-9721eb42ed7c")
+		)
+		(pin "6"
+			(uuid "1b5e7f55-b657-4593-ae3f-da7ee6f835fe")
+		)
+		(pin "8"
+			(uuid "ce0fc12e-70ec-4b67-9b79-46297c71231c")
+		)
+		(pin "1"
+			(uuid "c0b3f818-ddd8-4825-bd10-cfc7f7bbdaf8")
+		)
+		(pin "2"
+			(uuid "16f342a9-307a-46bc-85a7-07de8a291978")
+		)
+		(pin "5"
+			(uuid "a47ba2d6-f714-4b82-b6b0-46d0ec3745f4")
+		)
+		(pin "7"
+			(uuid "9aedccbe-f0dd-442c-96d7-bce3afec8d7c")
+		)
+		(instances
+			(project "relay adapter board 16ch"
+				(path "/524e789b-d01d-4678-ae1f-10e10c0ea50f"
+					(reference "U3")
 					(unit 1)
 				)
 			)
