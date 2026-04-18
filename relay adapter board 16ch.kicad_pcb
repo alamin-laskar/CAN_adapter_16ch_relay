@@ -4850,6 +4850,22 @@
 		(uuid "aa7cb835-c4d3-452b-bafb-02796400d683")
 	)
 	(segment
+		(start 146.67 103.16)
+		(end 161.89 103.16)
+		(width 0.762)
+		(layer "In1.Cu")
+		(net "+3V3")
+		(uuid "2a162669-c218-4d34-981c-6f131bc6b4d1")
+	)
+	(segment
+		(start 161.89 103.16)
+		(end 161.9 103.17)
+		(width 0.762)
+		(layer "In1.Cu")
+		(net "+3V3")
+		(uuid "773c0aec-4911-4c96-b0d3-e959165b622b")
+	)
+	(segment
 		(start 166.500486 112.779002)
 		(end 167.629488 111.65)
 		(width 0.254)
