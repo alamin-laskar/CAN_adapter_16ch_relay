@@ -2613,7 +2613,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized_Small")
-		(at 78.74 58.42 0)
+		(at 163.83 54.61 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2624,7 +2624,7 @@
 		(fields_autoplaced yes)
 		(uuid "5f37d198-49ef-412d-bf48-11bb087d4cef")
 		(property "Reference" "C1"
-			(at 81.28 56.6038 0)
+			(at 166.37 52.7938 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2635,7 +2635,7 @@
 			)
 		)
 		(property "Value" "C_Polarized_Small"
-			(at 81.28 59.1438 0)
+			(at 166.37 55.3338 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2646,7 +2646,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 78.74 58.42 0)
+			(at 163.83 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2657,7 +2657,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 78.74 58.42 0)
+			(at 163.83 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2668,7 +2668,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
-			(at 78.74 58.42 0)
+			(at 163.83 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2695,7 +2695,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 72.39 52.07 0)
+		(at 157.48 48.26 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2706,7 +2706,7 @@
 		(fields_autoplaced yes)
 		(uuid "8786a2b5-4092-466b-a3c0-22b8ef24b81f")
 		(property "Reference" "C2"
-			(at 74.93 50.8062 0)
+			(at 160.02 46.9962 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2717,7 +2717,7 @@
 			)
 		)
 		(property "Value" "C_Small"
-			(at 74.93 53.3462 0)
+			(at 160.02 49.5362 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2728,7 +2728,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 72.39 52.07 0)
+			(at 157.48 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2739,7 +2739,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 72.39 52.07 0)
+			(at 157.48 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2750,7 +2750,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 72.39 52.07 0)
+			(at 157.48 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
