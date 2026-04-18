@@ -1155,7 +1155,7 @@
 	(footprint "LED_SMD:LED_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "5bd74e96-8df0-4ae6-a74d-6b1bef1b1977")
-		(at 173.985 96.5)
+		(at 175.5 95.5 180)
 		(descr "LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "LED")
 		(property "Reference" "D1"
@@ -1215,7 +1215,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -1262,16 +1262,6 @@
 			(uuid "c1fc3f92-f766-476a-ab0f-219a52a05ad1")
 		)
 		(fp_line
-			(start -0.4 0.25)
-			(end -0.4 -0.25)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "3d6fae58-041b-413b-884c-32bb1f52bc4c")
-		)
-		(fp_line
 			(start -0.3 0.25)
 			(end -0.3 -0.25)
 			(stroke
@@ -1280,6 +1270,16 @@
 			)
 			(layer "F.Fab")
 			(uuid "6ebdbf99-4542-4f8b-99d9-b1c8654d224e")
+		)
+		(fp_line
+			(start -0.4 0.25)
+			(end -0.4 -0.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "3d6fae58-041b-413b-884c-32bb1f52bc4c")
 		)
 		(fp_rect
 			(start -0.5 -0.25)
@@ -1304,7 +1304,7 @@
 			)
 		)
 		(pad "1" smd roundrect
-			(at -0.485 0)
+			(at -0.485 0 180)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
@@ -1314,7 +1314,7 @@
 			(uuid "cfcc1ee6-19fe-4b80-991e-4c4130c94ea6")
 		)
 		(pad "2" smd roundrect
-			(at 0.485 0)
+			(at 0.485 0 180)
 			(size 0.59 0.64)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
