@@ -3067,6 +3067,16 @@
 		)
 		(uuid "e1629b73-3928-4941-845f-b0b3128fe4a1")
 	)
+	(text "Connectors\n"
+		(exclude_from_sim no)
+		(at 30.988 26.67 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2c0935e9-4f70-47e0-9010-f45496902796")
+	)
 	(junction
 		(at 185.42 45.72)
 		(diameter 0)
