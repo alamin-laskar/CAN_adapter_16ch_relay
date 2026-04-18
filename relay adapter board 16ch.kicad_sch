@@ -3688,7 +3688,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "330"
 			(at 161.29 104.1399 0)
 			(show_name no)
 			(do_not_autoplace no)
