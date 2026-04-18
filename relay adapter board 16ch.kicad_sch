@@ -3264,6 +3264,30 @@
 		)
 		(uuid "fdf5c185-8f6a-4093-9564-9c06d770afe3")
 	)
+	(global_label "CAN_H"
+		(shape input)
+		(at 237.49 58.42 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0e186775-5acd-46b4-b404-c17a2285cda3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 246.4624 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "RX"
 		(shape input)
 		(at 170.18 58.42 180)
