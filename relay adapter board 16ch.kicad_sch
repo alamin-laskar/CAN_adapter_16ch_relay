@@ -4758,23 +4758,25 @@
 		(fields_autoplaced yes)
 		(uuid "d95fddd9-b5ae-479e-a3ea-31a357769be1")
 		(property "Reference" "R2"
-			(at 242.57 62.23 90)
+			(at 240.03 60.9599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.016 1.016)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
-			(at 240.03 62.23 90)
+		(property "Value" "120"
+			(at 240.03 63.4999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
