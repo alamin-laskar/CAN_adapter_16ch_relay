@@ -2898,9 +2898,25 @@
 		(color 0 0 0 0)
 		(uuid "493457f7-f2c1-45a2-aa55-dd6e5ae2f196")
 	)
+	(junction
+		(at 138.43 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f117aa5c-bcd0-4472-8499-0aac991a91c7")
+	)
 	(no_connect
 		(at 134.62 137.16)
 		(uuid "81f0ad7b-57f9-4c0c-aaed-005a2a52efed")
+	)
+	(wire
+		(pts
+			(xy 135.89 88.9) (xy 138.43 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "255b24fe-f556-4720-b918-9ecc44eb6c66")
 	)
 	(wire
 		(pts
@@ -2984,6 +3000,16 @@
 	)
 	(wire
 		(pts
+			(xy 138.43 88.9) (xy 140.97 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0a9faa0-8c8b-4e7a-a665-b745f8c84464")
+	)
+	(wire
+		(pts
 			(xy 57.15 62.23) (xy 59.69 62.23)
 		)
 		(stroke
@@ -2991,6 +3017,16 @@
 			(type default)
 		)
 		(uuid "bda1599a-fa1d-49cb-8ff0-066598a5eaa4")
+	)
+	(wire
+		(pts
+			(xy 138.43 87.63) (xy 138.43 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cacd018d-eebd-4751-a17d-0d977c386bb4")
 	)
 	(wire
 		(pts
@@ -3951,7 +3987,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 138.43 88.9 0)
+		(at 138.43 87.63 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3962,7 +3998,7 @@
 		(fields_autoplaced yes)
 		(uuid "d14a2da0-710a-46bf-bf1a-ee7d62688710")
 		(property "Reference" "#PWR02"
-			(at 138.43 92.71 0)
+			(at 138.43 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3973,7 +4009,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 138.43 83.82 0)
+			(at 138.43 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3983,7 +4019,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 138.43 88.9 0)
+			(at 138.43 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3994,7 +4030,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 138.43 88.9 0)
+			(at 138.43 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4005,7 +4041,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 138.43 88.9 0)
+			(at 138.43 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
