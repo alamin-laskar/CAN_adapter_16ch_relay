@@ -4706,12 +4706,12 @@
 		(uuid "d27cb558-b20a-4aa4-a14e-c13d19a2459d")
 	)
 	(segment
-		(start 160.52 116.2)
-		(end 170.83 116.2)
+		(start 171.96 115.07)
+		(end 171.96 108.16)
 		(width 0.254)
 		(layer "In1.Cu")
 		(net "CAN_H")
-		(uuid "37245007-8c2a-406f-bd9a-aeb09a71ae28")
+		(uuid "17f28400-f1df-43a6-9b5a-70ae50dce885")
 	)
 	(segment
 		(start 160.52 116.2)
@@ -4723,11 +4723,19 @@
 	)
 	(segment
 		(start 170.83 116.2)
-		(end 171.5 115.53)
+		(end 171.96 115.07)
 		(width 0.254)
 		(layer "In1.Cu")
 		(net "CAN_H")
-		(uuid "ca05bf36-3cad-47f9-a14c-0493d770e191")
+		(uuid "a380e7f3-a366-4a1b-9bce-488a702d4d1b")
+	)
+	(segment
+		(start 160.52 116.2)
+		(end 170.83 116.2)
+		(width 0.254)
+		(layer "In1.Cu")
+		(net "CAN_H")
+		(uuid "b26b0297-3473-43d9-a01e-ac721ffd3c71")
 	)
 	(zone
 		(net "+12V")
