@@ -734,7 +734,7 @@
 	(footprint "STM32F103C6T6 Blue Pill:STM32F103C6T6"
 		(layer "F.Cu")
 		(uuid "5012e5ff-fbea-4783-bc1f-4e8fa8878804")
-		(at 154.29 79.26 90)
+		(at 155.85 80.49 90)
 		(tags "STM32")
 		(property "Reference" "STM32F103C6T1"
 			(at 0.95 0.61 90)
@@ -5242,22 +5242,6 @@
 		(uuid "f096c16b-d395-4c97-9cc3-14b3aead6e08")
 	)
 	(segment
-		(start 146.85 77.76)
-		(end 148.14 79.05)
-		(width 0.2)
-		(layer "In1.Cu")
-		(net "R14")
-		(uuid "2f479bf7-c978-4b79-a29c-45f1a0eafba4")
-	)
-	(segment
-		(start 146.67 77.76)
-		(end 146.85 77.76)
-		(width 0.2)
-		(layer "In1.Cu")
-		(net "R14")
-		(uuid "353ab616-9b7f-4e31-b896-620f412e252f")
-	)
-	(segment
 		(start 148.21 79.08)
 		(end 148.22 79.09)
 		(width 0.2)
@@ -5272,6 +5256,30 @@
 		(layer "In1.Cu")
 		(net "R14")
 		(uuid "8461a823-664c-4472-9653-57e586458f41")
+	)
+	(segment
+		(start 146.67 77.76)
+		(end 146.85 77.76)
+		(width 0.2)
+		(layer "In1.Cu")
+		(net "R14")
+		(uuid "9b18e248-d96a-4762-b1e6-e97eb1a85dc0")
+	)
+	(segment
+		(start 146.85 77.76)
+		(end 148.18 79.09)
+		(width 0.2)
+		(layer "In1.Cu")
+		(net "R14")
+		(uuid "bb43b433-4f85-4ad5-96dc-77843a70c25c")
+	)
+	(segment
+		(start 148.18 79.09)
+		(end 148.22 79.09)
+		(width 0.2)
+		(layer "In1.Cu")
+		(net "R14")
+		(uuid "bc2c50de-d9b2-45ec-a05c-7951de172c18")
 	)
 	(segment
 		(start 171.47 79.09)
