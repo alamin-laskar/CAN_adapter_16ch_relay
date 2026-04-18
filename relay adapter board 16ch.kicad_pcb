@@ -5314,14 +5314,6 @@
 		(uuid "df5331e3-572e-47f3-995c-6f5aecbd3a96")
 	)
 	(segment
-		(start 169.6075 57.3625)
-		(end 169.6075 56.08)
-		(width 0.254)
-		(layer "F.Cu")
-		(net "Status LED")
-		(uuid "3a600764-d791-4fa2-b26a-a7163f2e2baf")
-	)
-	(segment
 		(start 170.15 105.99)
 		(end 172.11 105.99)
 		(width 0.2)
