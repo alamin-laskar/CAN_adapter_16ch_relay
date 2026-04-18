@@ -4710,7 +4710,7 @@
 	)
 	(global_label "R4"
 		(shape input)
-		(at 125.73 135.89 0)
+		(at 114.3 139.7 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4720,7 +4720,7 @@
 		)
 		(uuid "58aeebf8-7d16-44c0-8860-f0929a264e7b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.1947 135.89 0)
+			(at 119.7647 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
