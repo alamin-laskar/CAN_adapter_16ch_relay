@@ -1339,7 +1339,7 @@
 	(footprint "Connector_RJ:RJ45_Amphenol_54602-x08_Horizontal"
 		(layer "F.Cu")
 		(uuid "5bfe5a98-53a8-4ca8-87e1-62a201db823e")
-		(at 134.59 117.6075 -90)
+		(at 134.29 119.1475 -90)
 		(descr "8 Pol Shallow Latch Connector, Modjack, RJ45 (https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0102.pdf)")
 		(tags "RJ45")
 		(property "Reference" "J1"
