@@ -1079,9 +1079,9 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "unconnected-(STM32F103C6T1-PB6-Pad34)")
+			(net "CAN_S")
 			(pinfunction "PB6_34")
-			(pintype "bidirectional+no_connect")
+			(pintype "bidirectional")
 			(uuid "0cd9be1e-b11b-4fcd-82ea-2be19e483838")
 		)
 		(pad "35" thru_hole circle
