@@ -3229,7 +3229,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_Small_Filled")
-		(at 175.26 113.03 0)
+		(at 158.75 107.95 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3240,27 +3240,29 @@
 		(fields_autoplaced yes)
 		(uuid "549e2c97-25e2-4fe9-b62a-76a2afb86c8f")
 		(property "Reference" "D1"
-			(at 175.3235 106.68 0)
+			(at 161.29 106.6164 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "LED_Small_Filled"
-			(at 175.3235 109.22 0)
+			(at 161.29 109.1564 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 175.26 113.03 90)
+			(at 158.75 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3271,7 +3273,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 175.26 113.03 90)
+			(at 158.75 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3282,7 +3284,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, small symbol, filled shape"
-			(at 175.26 113.03 0)
+			(at 158.75 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3293,7 +3295,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 175.26 113.03 0)
+			(at 158.75 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
