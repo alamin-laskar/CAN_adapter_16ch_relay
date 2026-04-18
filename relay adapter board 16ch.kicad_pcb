@@ -1461,9 +1461,9 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "unconnected-(STM32F103C6T1-PB11-Pad16)")
+			(net "Status LED")
 			(pinfunction "PB11_16")
-			(pintype "bidirectional+no_connect")
+			(pintype "bidirectional")
 			(uuid "fabcdfb5-8cf2-4355-ac7c-f3c8ebe5555d")
 		)
 		(pad "17" thru_hole circle
@@ -1648,9 +1648,9 @@
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "Status LED")
+			(net "unconnected-(STM32F103C6T1-PB5-Pad33)")
 			(pinfunction "PB5_33")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "763ac35b-ee8d-4f4a-8656-22f228623952")
 		)
 		(pad "34" thru_hole circle
