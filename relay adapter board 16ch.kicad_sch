@@ -5550,7 +5550,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RJ45-8Z4:TE_RJ45-8Z4"
+		(property "Footprint" "TE_RJ45-8Z4:TE_RJ45-8Z4"
 			(at 49.53 62.23 0)
 			(hide yes)
 			(show_name no)
