@@ -2893,13 +2893,19 @@
 		)
 	)
 	(junction
+		(at 189.23 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "29b9b5aa-29e7-4073-a36a-70e9c2d29e83")
+	)
+	(junction
 		(at 139.7 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "493457f7-f2c1-45a2-aa55-dd6e5ae2f196")
 	)
 	(junction
-		(at 176.53 39.37)
+		(at 179.07 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6e57fc10-7cba-46a2-b41f-b8cd7ae46643")
@@ -2916,7 +2922,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 39.37) (xy 176.53 39.37)
+			(xy 173.99 39.37) (xy 179.07 39.37)
 		)
 		(stroke
 			(width 0)
@@ -2936,6 +2942,16 @@
 	)
 	(wire
 		(pts
+			(xy 200.66 50.8) (xy 200.66 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37b28a6e-5d82-41c3-aed0-dd4374e2f957")
+	)
+	(wire
+		(pts
 			(xy 57.15 49.53) (xy 57.15 52.07)
 		)
 		(stroke
@@ -2943,6 +2959,16 @@
 			(type default)
 		)
 		(uuid "525a9399-cfe4-458b-8b0d-0c478a9f2d56")
+	)
+	(wire
+		(pts
+			(xy 200.66 39.37) (xy 189.23 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53b1e2c2-d9e8-4a82-972c-ea912329a844")
 	)
 	(wire
 		(pts
@@ -3036,7 +3062,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 39.37) (xy 186.69 39.37)
+			(xy 179.07 39.37) (xy 189.23 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3348,7 +3374,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized_Small")
-		(at 176.53 41.91 0)
+		(at 179.07 41.91 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3359,7 +3385,7 @@
 		(fields_autoplaced yes)
 		(uuid "5f37d198-49ef-412d-bf48-11bb087d4cef")
 		(property "Reference" "C1"
-			(at 179.07 40.0938 0)
+			(at 181.61 40.0938 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3370,7 +3396,7 @@
 			)
 		)
 		(property "Value" "47uF"
-			(at 179.07 42.6338 0)
+			(at 181.61 42.6338 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3381,7 +3407,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 41.91 0)
+			(at 179.07 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3392,7 +3418,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 41.91 0)
+			(at 179.07 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3403,7 +3429,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
-			(at 176.53 41.91 0)
+			(at 179.07 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3609,7 +3635,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 186.69 41.91 0)
+		(at 189.23 41.91 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3620,7 +3646,7 @@
 		(fields_autoplaced yes)
 		(uuid "850f954a-fe6f-4973-be95-af14eb73e755")
 		(property "Reference" "C3"
-			(at 189.23 40.6462 0)
+			(at 191.77 40.6462 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3631,7 +3657,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 189.23 43.1862 0)
+			(at 191.77 43.1862 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3642,7 +3668,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 186.69 41.91 0)
+			(at 189.23 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3653,7 +3679,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 186.69 41.91 0)
+			(at 189.23 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3664,7 +3690,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 186.69 41.91 0)
+			(at 189.23 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4173,7 +4199,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 171.45 39.37 0)
+		(at 173.99 39.37 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4184,7 +4210,7 @@
 		(fields_autoplaced yes)
 		(uuid "cd86d2fd-4459-4fa3-8dab-c1d346dbc4e8")
 		(property "Reference" "#PWR07"
-			(at 171.45 43.18 0)
+			(at 173.99 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4195,7 +4221,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 171.45 34.29 0)
+			(at 173.99 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4205,7 +4231,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 171.45 39.37 0)
+			(at 173.99 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4216,7 +4242,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.45 39.37 0)
+			(at 173.99 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4227,7 +4253,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 171.45 39.37 0)
+			(at 173.99 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
