@@ -5202,6 +5202,22 @@
 		(uuid "f096c16b-d395-4c97-9cc3-14b3aead6e08")
 	)
 	(segment
+		(start 161.9 82.85)
+		(end 170.01 82.85)
+		(width 0.2)
+		(layer "In1.Cu")
+		(net "R15")
+		(uuid "a8c98293-b8a6-402a-bef4-cf8ed536b22e")
+	)
+	(segment
+		(start 170.01 82.85)
+		(end 170.08 82.78)
+		(width 0.2)
+		(layer "In1.Cu")
+		(net "R15")
+		(uuid "dfbb280b-5b7b-4004-b5bc-542a3ec536d5")
+	)
+	(segment
 		(start 169.6075 57.3625)
 		(end 169.6075 56.08)
 		(width 0.254)
