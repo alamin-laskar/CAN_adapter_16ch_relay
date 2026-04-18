@@ -3815,10 +3815,10 @@
 	)
 	(text "20 Pin Female Header"
 		(exclude_from_sim no)
-		(at 193.802 106.68 0)
+		(at 205.994 105.41 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 2.54 2.54)
 			)
 		)
 		(uuid "b6bbcbda-56b7-476b-8917-3d0345249ad8")
