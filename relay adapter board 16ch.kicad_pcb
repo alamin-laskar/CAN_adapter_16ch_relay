@@ -1668,15 +1668,15 @@
 			(uuid "33f051d2-e4f9-40e8-86d1-e35dfef3529f")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_RJ.3dshapes/RJ45_Amphenol_54602-x08_Horizontal.step"
+		(model "C:/Users/alami/Documents/KiCad/10.0/3dmodels/RJ45-8Z4.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 4.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
