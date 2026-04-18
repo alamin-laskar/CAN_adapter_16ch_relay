@@ -4495,7 +4495,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_Small_Filled")
-		(at 168.91 102.87 90)
+		(at 102.87 119.38 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4506,7 +4506,7 @@
 		(fields_autoplaced yes)
 		(uuid "549e2c97-25e2-4fe9-b62a-76a2afb86c8f")
 		(property "Reference" "D1"
-			(at 171.45 101.5364 90)
+			(at 105.41 118.0464 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4517,7 +4517,7 @@
 			)
 		)
 		(property "Value" "Status LED"
-			(at 171.45 104.0764 90)
+			(at 105.41 120.5864 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4528,7 +4528,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 168.91 102.87 90)
+			(at 102.87 119.38 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4539,7 +4539,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 102.87 90)
+			(at 102.87 119.38 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4550,7 +4550,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, small symbol, filled shape"
-			(at 168.91 102.87 0)
+			(at 102.87 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4561,7 +4561,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 168.91 102.87 0)
+			(at 102.87 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5247,7 +5247,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 168.91 97.79 0)
+		(at 102.87 114.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5258,7 +5258,7 @@
 		(fields_autoplaced yes)
 		(uuid "a8ac652b-76b3-4f70-a091-0febfc7f8004")
 		(property "Reference" "R1"
-			(at 171.45 96.5199 0)
+			(at 105.41 113.0299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5269,7 +5269,7 @@
 			)
 		)
 		(property "Value" "330"
-			(at 171.45 99.0599 0)
+			(at 105.41 115.5699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5280,7 +5280,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 168.91 97.79 0)
+			(at 102.87 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5291,7 +5291,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 97.79 0)
+			(at 102.87 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5302,7 +5302,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 168.91 97.79 0)
+			(at 102.87 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6080,7 +6080,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 168.91 105.41 0)
+		(at 102.87 121.92 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6091,7 +6091,7 @@
 		(fields_autoplaced yes)
 		(uuid "fd2e7d65-451f-4691-99d0-d4e16a812eee")
 		(property "Reference" "#PWR04"
-			(at 168.91 111.76 0)
+			(at 102.87 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6102,7 +6102,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 168.91 110.49 0)
+			(at 102.87 127 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6112,7 +6112,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 168.91 105.41 0)
+			(at 102.87 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6123,7 +6123,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 105.41 0)
+			(at 102.87 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6134,7 +6134,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 168.91 105.41 0)
+			(at 102.87 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
