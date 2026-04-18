@@ -3919,10 +3919,6 @@
 		(uuid "68a6ab40-0a3e-48c5-be2b-969837eea08d")
 	)
 	(no_connect
-		(at 92.71 152.4)
-		(uuid "79eaf926-5f12-4c97-8bda-4648c5606145")
-	)
-	(no_connect
 		(at 100.33 170.18)
 		(uuid "81f0ad7b-57f9-4c0c-aaed-005a2a52efed")
 	)
@@ -4665,30 +4661,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-	)
-	(global_label "R1"
-		(shape input)
-		(at 114.3 134.62 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2c7802c6-4486-44fc-bd27-ba320c712e4b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 119.7647 134.62 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 	)
