@@ -5466,7 +5466,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "STM32F103C6T6 Blue Pill:STM32F103C6T6"
 			(at 104.14 146.05 0)
 			(hide yes)
 			(show_name no)
