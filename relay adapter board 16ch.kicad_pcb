@@ -4168,7 +4168,7 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical"
 		(layer "B.Cu")
 		(uuid "60fea0fe-6eb6-4952-9fad-8759fa860773")
-		(at 67.69 64.15 180)
+		(at 67.26 67.84 180)
 		(descr "Through hole straight socket strip, 2x10, 2.54mm pitch, double rows (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 2x10 2.54mm double row")
 		(property "Reference" "J4"
