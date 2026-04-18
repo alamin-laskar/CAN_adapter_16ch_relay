@@ -2893,7 +2893,7 @@
 		)
 	)
 	(junction
-		(at 189.23 39.37)
+		(at 190.5 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "29b9b5aa-29e7-4073-a36a-70e9c2d29e83")
@@ -2905,7 +2905,7 @@
 		(uuid "493457f7-f2c1-45a2-aa55-dd6e5ae2f196")
 	)
 	(junction
-		(at 179.07 39.37)
+		(at 180.34 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6e57fc10-7cba-46a2-b41f-b8cd7ae46643")
@@ -2922,7 +2922,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 39.37) (xy 179.07 39.37)
+			(xy 175.26 39.37) (xy 180.34 39.37)
 		)
 		(stroke
 			(width 0)
@@ -2962,7 +2962,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 39.37) (xy 189.23 39.37)
+			(xy 200.66 39.37) (xy 190.5 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3062,7 +3062,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 39.37) (xy 189.23 39.37)
+			(xy 180.34 39.37) (xy 190.5 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3374,7 +3374,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized_Small")
-		(at 179.07 41.91 0)
+		(at 180.34 41.91 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3385,7 +3385,7 @@
 		(fields_autoplaced yes)
 		(uuid "5f37d198-49ef-412d-bf48-11bb087d4cef")
 		(property "Reference" "C1"
-			(at 181.61 40.0938 0)
+			(at 182.88 40.0938 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3396,7 +3396,7 @@
 			)
 		)
 		(property "Value" "47uF"
-			(at 181.61 42.6338 0)
+			(at 182.88 42.6338 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3407,7 +3407,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 179.07 41.91 0)
+			(at 180.34 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3418,7 +3418,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 179.07 41.91 0)
+			(at 180.34 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3429,7 +3429,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
-			(at 179.07 41.91 0)
+			(at 180.34 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3449,6 +3449,84 @@
 			(project "relay adapter board 16ch"
 				(path "/524e789b-d01d-4678-ae1f-10e10c0ea50f"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 186.69 45.72 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7945e793-c1d3-4059-972a-62386f9c7664")
+		(property "Reference" "#PWR08"
+			(at 186.69 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 186.69 50.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 186.69 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 186.69 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 186.69 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1c7dc273-9339-4fc3-8c5c-09166006b829")
+		)
+		(instances
+			(project "relay adapter board 16ch"
+				(path "/524e789b-d01d-4678-ae1f-10e10c0ea50f"
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -3635,7 +3713,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 189.23 41.91 0)
+		(at 190.5 41.91 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3646,7 +3724,7 @@
 		(fields_autoplaced yes)
 		(uuid "850f954a-fe6f-4973-be95-af14eb73e755")
 		(property "Reference" "C3"
-			(at 191.77 40.6462 0)
+			(at 193.04 40.6462 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3657,7 +3735,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 191.77 43.1862 0)
+			(at 193.04 43.1862 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3668,7 +3746,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 189.23 41.91 0)
+			(at 190.5 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3679,7 +3757,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 189.23 41.91 0)
+			(at 190.5 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3690,7 +3768,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 189.23 41.91 0)
+			(at 190.5 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4199,7 +4277,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 173.99 39.37 0)
+		(at 175.26 39.37 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4210,7 +4288,7 @@
 		(fields_autoplaced yes)
 		(uuid "cd86d2fd-4459-4fa3-8dab-c1d346dbc4e8")
 		(property "Reference" "#PWR07"
-			(at 173.99 43.18 0)
+			(at 175.26 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4221,7 +4299,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 173.99 34.29 0)
+			(at 175.26 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4231,7 +4309,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 173.99 39.37 0)
+			(at 175.26 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4242,7 +4320,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 173.99 39.37 0)
+			(at 175.26 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4253,7 +4331,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 173.99 39.37 0)
+			(at 175.26 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
