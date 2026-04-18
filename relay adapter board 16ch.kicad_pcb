@@ -13493,28 +13493,5 @@
 		)
 		(uuid "e339e122-ef45-4b79-a14c-d5082b863fd9")
 	)
-	(zone
-		(net "+12V")
-		(layer "F.Cu")
-		(uuid "f8ec05df-d174-4b11-afcb-82d5db4a26ed")
-		(name "12V")
-		(hatch edge 0.5)
-		(connect_pads
-			(clearance 0.5)
-		)
-		(min_thickness 0.25)
-		(fill
-			(thermal_gap 0.5)
-			(thermal_bridge_width 0.5)
-			(island_removal_mode 0)
-		)
-		(polygon
-			(pts
-				(xy 51.753587 118.227639) (xy 63.873587 122.127639) (xy 63.928879 126.291263) (xy 59.683587 126.347639)
-				(xy 57.51 123.11) (xy 51.523587 120.347639) (xy 51.723587 118.147639) (xy 51.773587 118.217639)
-				(xy 51.783587 118.257639) (xy 51.489439 117.765003)
-			)
-		)
-	)
 	(embedded_fonts no)
 )
