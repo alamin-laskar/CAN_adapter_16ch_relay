@@ -4707,11 +4707,27 @@
 	)
 	(segment
 		(start 160.52 116.2)
+		(end 170.83 116.2)
+		(width 0.254)
+		(layer "In1.Cu")
+		(net "CAN_H")
+		(uuid "37245007-8c2a-406f-bd9a-aeb09a71ae28")
+	)
+	(segment
+		(start 160.52 116.2)
 		(end 160.52 113.66)
 		(width 0.254)
 		(layer "In1.Cu")
 		(net "CAN_H")
 		(uuid "67c1af6c-67f6-4119-bcb5-18225f5a2983")
+	)
+	(segment
+		(start 170.83 116.2)
+		(end 171.5 115.53)
+		(width 0.254)
+		(layer "In1.Cu")
+		(net "CAN_H")
+		(uuid "ca05bf36-3cad-47f9-a14c-0493d770e191")
 	)
 	(zone
 		(net "+12V")
