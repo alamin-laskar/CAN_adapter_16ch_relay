@@ -3923,6 +3923,10 @@
 		(uuid "81f0ad7b-57f9-4c0c-aaed-005a2a52efed")
 	)
 	(no_connect
+		(at 92.71 139.7)
+		(uuid "8a9578ff-72c7-4e8d-b2c4-be6f6f9ad4d4")
+	)
+	(no_connect
 		(at 92.71 144.78)
 		(uuid "a724d583-98f9-46a4-9c43-0f76c4d0f481")
 	)
