@@ -5405,7 +5405,7 @@
 	)
 	(global_label "R8"
 		(shape input)
-		(at 228.6 129.54 0)
+		(at 227.33 129.54 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5415,7 +5415,7 @@
 		)
 		(uuid "d95853c7-e996-47a6-ac15-ec3dbe8a5c27")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 234.0647 129.54 0)
+			(at 232.7947 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
