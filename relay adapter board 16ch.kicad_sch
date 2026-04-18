@@ -3312,7 +3312,7 @@
 			)
 		)
 	)
-	(global_label "RX"
+	(global_label "CRX"
 		(shape input)
 		(at 170.18 58.42 180)
 		(fields_autoplaced yes)
@@ -3324,7 +3324,7 @@
 		)
 		(uuid "31af997b-2387-46ad-b4cc-de770307838b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 164.7153 58.42 0)
+			(at 163.4453 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3336,7 +3336,7 @@
 			)
 		)
 	)
-	(global_label "TX"
+	(global_label "CTX"
 		(shape input)
 		(at 187.96 55.88 180)
 		(fields_autoplaced yes)
@@ -3348,7 +3348,7 @@
 		)
 		(uuid "74d4ffd5-42d6-4f07-a3fc-ebe023d9db20")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 182.7977 55.88 0)
+			(at 181.5277 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
