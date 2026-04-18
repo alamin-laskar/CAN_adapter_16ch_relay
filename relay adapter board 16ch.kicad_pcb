@@ -2665,7 +2665,7 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "a27dbb36-3500-49f0-8aae-196fc944c6c6")
-		(at 171.32 110.26 180)
+		(at 171.23 110.25 180)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C4"
@@ -4682,6 +4682,14 @@
 		(uuid "293532dd-7c2b-4f35-b92a-1313dd50dd70")
 	)
 	(segment
+		(start 170.705 110.045)
+		(end 170.94 110.28)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "CAN_L")
+		(uuid "3a06e119-7c6d-4c2e-a92e-bb63e8dd783c")
+	)
+	(segment
 		(start 166.500486 110.239002)
 		(end 170.899002 110.239002)
 		(width 0.254)
@@ -4695,15 +4703,7 @@
 		(width 0.2)
 		(layer "F.Cu")
 		(net "CAN_L")
-		(uuid "7a89e9eb-1ff7-4b8b-b10e-45e5a9db3ed7")
-	)
-	(segment
-		(start 170.705 110.045)
-		(end 170.94 110.28)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "CAN_L")
-		(uuid "aca3abcb-f340-44a8-8d06-be3a2d5675dd")
+		(uuid "75cf22d3-0223-4089-9519-f6e4ba847642")
 	)
 	(segment
 		(start 158.610998 110.239002)
