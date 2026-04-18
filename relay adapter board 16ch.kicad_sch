@@ -2591,7 +2591,7 @@
 	)
 	(symbol
 		(lib_id "Interface_CAN_LIN:TJA1051T-3")
-		(at 243.84 39.37 0)
+		(at 190.5 39.37 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2602,7 +2602,7 @@
 		(fields_autoplaced yes)
 		(uuid "7f9d50da-60ce-41c4-98d8-028b84745699")
 		(property "Reference" "U3"
-			(at 245.9833 26.67 0)
+			(at 192.6433 26.67 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2613,7 +2613,7 @@
 			)
 		)
 		(property "Value" "TJA1051T-3"
-			(at 245.9833 29.21 0)
+			(at 192.6433 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2624,7 +2624,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 243.84 52.07 0)
+			(at 190.5 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2636,7 +2636,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.nxp.com/docs/en/data-sheet/TJA1051.pdf"
-			(at 243.84 39.37 0)
+			(at 190.5 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2647,7 +2647,7 @@
 			)
 		)
 		(property "Description" "High-Speed CAN Transceiver, separate VIO, silent mode, SOIC-8"
-			(at 243.84 39.37 0)
+			(at 190.5 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
