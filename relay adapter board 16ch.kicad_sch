@@ -3166,6 +3166,30 @@
 		)
 		(uuid "fd303276-5e38-4278-9e41-454c927a9989")
 	)
+	(global_label "CAN_S"
+		(shape input)
+		(at 187.96 66.04 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "eeb55c8b-a8d5-4fc1-b88b-60d2fc201d2f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 179.1086 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(symbol
 		(lib_id "power:+5V")
 		(at 133.35 88.9 0)
