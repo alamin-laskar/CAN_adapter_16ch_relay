@@ -4420,30 +4420,6 @@
 			)
 		)
 	)
-	(global_label "R3"
-		(shape input)
-		(at 114.3 139.7 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "0a803256-a8b4-4095-8610-d08492c0dba4")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 119.7647 139.7 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "CTX"
 		(shape input)
 		(at 114.3 165.1 0)
@@ -4825,6 +4801,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "R3"
+		(shape input)
+		(at 92.71 152.4 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "59487949-5fee-4a0e-9877-e127d2b68c5a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 87.2453 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
