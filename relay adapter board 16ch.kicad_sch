@@ -2421,7 +2421,7 @@
 	)
 	(symbol
 		(lib_id "Interface_CAN_LIN:TJA1051T")
-		(at 60.96 93.98 0)
+		(at 190.5 39.37 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2432,7 +2432,7 @@
 		(fields_autoplaced yes)
 		(uuid "45848412-570d-4b71-b67c-226b80c6ec94")
 		(property "Reference" "U2"
-			(at 63.1033 81.28 0)
+			(at 192.6433 26.67 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2443,7 +2443,7 @@
 			)
 		)
 		(property "Value" "TJA1051T"
-			(at 63.1033 83.82 0)
+			(at 192.6433 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2454,7 +2454,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 60.96 106.68 0)
+			(at 190.5 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2466,7 +2466,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.nxp.com/docs/en/data-sheet/TJA1051.pdf"
-			(at 60.96 93.98 0)
+			(at 190.5 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2477,7 +2477,7 @@
 			)
 		)
 		(property "Description" "High-Speed CAN Transceiver, silent mode, SOIC-8"
-			(at 60.96 93.98 0)
+			(at 190.5 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2941,7 +2941,7 @@
 	)
 	(symbol
 		(lib_id "STM32 Blue Pill:STM32F103C6T6")
-		(at 116.84 80.01 180)
+		(at 148.59 113.03 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2952,7 +2952,7 @@
 		(fields_autoplaced yes)
 		(uuid "f8983bf0-4508-4d87-8aa3-58c71e3b0510")
 		(property "Reference" "U1"
-			(at 122.9843 54.61 0)
+			(at 154.7343 87.63 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2963,7 +2963,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 116.84 80.01 0)
+			(at 148.59 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2973,7 +2973,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.84 80.01 0)
+			(at 148.59 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2984,7 +2984,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 116.84 80.01 0)
+			(at 148.59 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2995,7 +2995,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 116.84 80.01 0)
+			(at 148.59 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
