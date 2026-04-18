@@ -3219,6 +3219,16 @@
 	)
 	(wire
 		(pts
+			(xy 102.87 124.46) (xy 102.87 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42d27bec-6b8a-4123-9951-d113a63f2350")
+	)
+	(wire
+		(pts
 			(xy 190.5 45.72) (xy 190.5 44.45)
 		)
 		(stroke
@@ -4015,7 +4025,7 @@
 	)
 	(global_label "Status LED"
 		(shape input)
-		(at 102.87 121.92 180)
+		(at 102.87 124.46 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4025,7 +4035,7 @@
 		)
 		(uuid "9400bfe2-f1f7-4c45-a373-704bd9dbf1e3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 89.4831 121.92 0)
+			(at 89.4831 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
