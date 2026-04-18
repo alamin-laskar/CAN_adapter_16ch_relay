@@ -3069,7 +3069,7 @@
 	)
 	(text "Connectors\n"
 		(exclude_from_sim no)
-		(at 30.734 20.828 0)
+		(at 30.988 20.32 0)
 		(effects
 			(font
 				(size 2.54 2.54)
