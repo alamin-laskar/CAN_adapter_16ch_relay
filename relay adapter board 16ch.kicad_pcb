@@ -4168,13 +4168,13 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical"
 		(layer "B.Cu")
 		(uuid "60fea0fe-6eb6-4952-9fad-8759fa860773")
-		(at 67.26 67.84 180)
+		(at 67.69 64.15 180)
 		(descr "Through hole straight socket strip, 2x10, 2.54mm pitch, double rows (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 2x10 2.54mm double row")
 		(property "Reference" "J4"
 			(at -1.27 2.77 0)
 			(layer "B.SilkS")
-			(uuid "7067ff2e-8372-4ad5-a587-30822fab2d71")
+			(uuid "90932e28-3a6c-4e74-9713-4900211db958")
 			(effects
 				(font
 					(size 1 1)
@@ -4186,7 +4186,7 @@
 		(property "Value" "Conn_02x10_Odd_Even"
 			(at -1.27 -25.63 0)
 			(layer "B.Fab")
-			(uuid "f58c8ce2-0717-4329-a41a-5e7c44aae24a")
+			(uuid "6c54676b-1071-4e03-9fb7-7c610c0b3e4e")
 			(effects
 				(font
 					(size 1 1)
@@ -4199,7 +4199,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "8be255b8-3c46-4776-8b5b-c746fcfdbb33")
+			(uuid "2eed2b60-b31a-455b-921b-0fce40739119")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4211,7 +4211,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "0631a71b-7043-4c8f-9dfc-0a43fb9bd0e0")
+			(uuid "99a89be5-0653-45d7-a316-1d6c47cf9b63")
 			(effects
 				(font
 					(size 1.27 1.27)
