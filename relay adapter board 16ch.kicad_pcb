@@ -1799,7 +1799,7 @@
 	(footprint "LED_SMD:LED_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "5bd74e96-8df0-4ae6-a74d-6b1bef1b1977")
-		(at 168.9 56.275 90)
+		(at 167.76 57.595 90)
 		(descr "LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "LED")
 		(property "Reference" "D1"
@@ -1987,7 +1987,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "R1"
-			(at 0.13 1.22 0)
+			(at 2.98 0.47 0)
 			(layer "F.SilkS")
 			(uuid "567feb13-a472-4914-ac88-02f063bc411c")
 			(effects
@@ -5104,14 +5104,6 @@
 		(layer "F.Cu")
 		(net "CRX")
 		(uuid "f096c16b-d395-4c97-9cc3-14b3aead6e08")
-	)
-	(segment
-		(start 168.84 55.65)
-		(end 168.85 55.64)
-		(width 0.254)
-		(layer "F.Cu")
-		(net "Status LED")
-		(uuid "5f70ea08-f46c-42f4-8fc1-a916cba8facf")
 	)
 	(segment
 		(start 170.15 105.99)
