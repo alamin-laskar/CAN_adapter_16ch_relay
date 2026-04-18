@@ -4092,16 +4092,6 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 49.53) (xy 57.15 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "525a9399-cfe4-458b-8b0d-0c478a9f2d56")
-	)
-	(wire
-		(pts
 			(xy 200.66 39.37) (xy 190.5 39.37)
 		)
 		(stroke
@@ -4252,16 +4242,6 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 59.69) (xy 63.5 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9e852f53-a22f-4ec6-bf9c-302bce78338d")
-	)
-	(wire
-		(pts
 			(xy 180.34 45.72) (xy 185.42 45.72)
 		)
 		(stroke
@@ -4322,16 +4302,6 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 59.69) (xy 57.15 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b5fedde1-b751-463c-a57e-21bffcb50cf1")
-	)
-	(wire
-		(pts
 			(xy 214.63 149.86) (xy 220.98 149.86)
 		)
 		(stroke
@@ -4372,7 +4342,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 50.8) (xy 57.15 52.07)
+			(xy 57.15 49.53) (xy 57.15 52.07)
 		)
 		(stroke
 			(width 0)
@@ -6311,7 +6281,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 63.5 59.69 0)
+		(at 60.96 50.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6322,7 +6292,7 @@
 		(fields_autoplaced yes)
 		(uuid "51875e47-40de-41ba-bdd9-87c46a7dcb6a")
 		(property "Reference" "#PWR010"
-			(at 63.5 63.5 0)
+			(at 60.96 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6333,7 +6303,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 63.5 54.61 0)
+			(at 60.96 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6343,7 +6313,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 63.5 59.69 0)
+			(at 60.96 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6354,7 +6324,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 59.69 0)
+			(at 60.96 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6365,7 +6335,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 63.5 59.69 0)
+			(at 60.96 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
