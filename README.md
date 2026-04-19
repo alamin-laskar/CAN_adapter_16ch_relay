@@ -4,7 +4,7 @@ A high-performance CAN-to-Relay adapter board designed to control 16-channel rel
 
 ## Features
 
-* **Microcontroller:** STM32F103C6T6 (Cortex-M3) providing high-speed processing and native CAN support.
+* **Microcontroller:** STM32F103C6T6 Blue Pill providing high-speed processing and native CAN support.
 * **CAN Transceiver:** TJA1051T/3 high-speed CAN transceiver, offering excellent EMC performance and 3.3V logic compatibility.
 * **Relay Support:** Optimized for standard 16-channel relay modules (active low/high configurable via wiring).
 * **Connectivity:** * **RJ45 Connector:** Standardized cabling for long-distance CAN bus runs.
